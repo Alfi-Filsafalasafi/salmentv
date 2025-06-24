@@ -1,0 +1,72 @@
+.jumbotron{
+    /* padding : 2rem 1rem; 2 atas bawah , 1 kanan kiri */
+    padding-top: 7rem;
+    background-color: #0a100d;
+}
+#projects{
+    background-color: #0a100d;
+}
+
+section{
+    padding-top: 7rem;
+}
+
+.gallery-img{
+    width: 100%;
+    padding: 0.5rem;
+}
+
+#gallery .row > *{
+    padding:0;
+}
+
+nav{
+    transition: 0.5;
+}
+
+.bg-dark-red{
+    background-color: #250902 !important;
+}
+.bg-dark{
+    background-color: #0a100d !important;
+}
+.bg-dark2{
+    background-color: #161a1d !important;
+}
+
+.text-dark{
+    color: #250902 !important;
+}
+
+.social-icon {
+  background-color: #250902;
+  color: white;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+.social-icon:hover {
+  background-color: darkred;
+  color: white;
+  transform: scale(1.1);
+}
+
+.text-red{
+    color: #a22c29 !important;
+}
+
+.btn-red{
+    background-color: #a22c29 !important;
+    color: white !important;
+}
+.btn-red:hover{
+    background-color: #250902 !important;
+    color: white !important;
+}
